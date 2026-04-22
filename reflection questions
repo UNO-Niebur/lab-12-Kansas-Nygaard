@@ -1,0 +1,13 @@
+1. Question: Which list was easiest to sort and why?
+Answer: The sorted list was the easiest to sort because the numbers were already in order. Bubble sort still checked the list
+but doesn't have to make any changes
+
+2. Queston: Which list required the most work?
+Answer: The reverse order list required the most work since bubble sort had to do every comparison as well as swap every value
+into the correct spot
+
+3. Question: Why is sorting useful before searching?
+Answer: Sorting is useful before searching because it allows the search code to perform faster
+
+4. Question: When might linear search still be useful?
+Answer: Linear search is useful when you only need to search one time, because sorting the list isn't nessecary and takes extra time
